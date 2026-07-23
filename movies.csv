@@ -1,0 +1,51 @@
+movie_id,title,genre,era,popularity,runtime_minutes
+1,Neon Skyline,Romance,1980s,low,120
+2,Last Signal,Comedy,1990s,low,98
+3,Quiet Harbor,Romance,2020s,low,139
+4,The Long Drive,Action,1980s,low,114
+5,Static Bloom,SciFi,2020s,low,110
+6,Northbound,Romance,2020s,medium,142
+7,Glass City,SciFi,2000s,high,85
+8,Midnight Circuit,Comedy,2010s,low,104
+9,Paper Moonlight,Comedy,2000s,low,133
+10,Iron Season,Action,2000s,high,162
+11,The Wrong Exit,Drama,1980s,medium,153
+12,Salt & Ash,Action,2010s,low,122
+13,Falling Upward,Romance,2020s,high,131
+14,Echo Chamber,SciFi,1990s,medium,90
+15,The Slow Fire,Romance,1990s,medium,95
+16,Borrowed Time,Comedy,1980s,medium,143
+17,Winter Arcade,Romance,2000s,low,130
+18,Red Tide Rising,Comedy,2000s,medium,94
+19,The Cartographer,SciFi,1990s,medium,116
+20,Second Sunrise,Comedy,2010s,medium,156
+21,Hollow Orbit,Comedy,2000s,high,92
+22,Velvet Static,Comedy,1980s,high,136
+23,Ghost Frequency,Drama,1980s,low,157
+24,The Last Ember,Romance,2000s,low,148
+25,Copper Rain,Horror,2010s,low,102
+26,Blue Hour,Comedy,2020s,medium,159
+27,Nightshift Diner,Horror,2020s,medium,113
+28,The Silence Engine,Comedy,2020s,medium,91
+29,Marble Sky,Action,1990s,medium,139
+30,Fractured Light,SciFi,1980s,medium,161
+31,The Wandering Signal,Horror,2020s,low,155
+32,Gravity's Edge,Action,1980s,medium,153
+33,Painted Static,Drama,2000s,low,140
+34,The Departure Gate,Comedy,2010s,low,118
+35,Coyote Moon,SciFi,1990s,medium,98
+36,Static & Snow,Romance,2000s,high,149
+37,The Forgotten Frequency,SciFi,1990s,low,105
+38,Amber Skyline,SciFi,2020s,high,161
+39,The Last Broadcast,Drama,2010s,low,131
+40,Hollow Pines,Drama,1990s,low,157
+41,Wildfire Season,Action,1980s,medium,93
+42,The Quiet Coup,SciFi,1990s,low,145
+43,Neon Requiem,SciFi,1990s,low,162
+44,Paper Satellites,Horror,1990s,high,110
+45,The Drift,Romance,2000s,medium,132
+46,Aftershock City,Horror,2020s,medium,116
+47,The Long Goodbye Tour,Comedy,1980s,low,160
+48,Static Horizon,SciFi,1990s,medium,85
+49,The Midnight Ledger,Action,1980s,low,89
+50,Ember & Frost,Drama,1980s,medium,120
